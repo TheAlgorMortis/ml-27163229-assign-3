@@ -1,0 +1,18 @@
+{
+    "dataset": "ds2",
+    "source_file": "processed-data/ds2.csv",
+    "timestamp_column": "date",
+    "split_method": "chronological_80_20",
+    "split_index": 16000,
+    "total_rows": 20000,
+    "development_rows": 16000,
+    "test_rows": 4000,
+    "development_fraction": 0.8,
+    "test_fraction": 0.2,
+    "full_start": "2023-06-04T16:00:00+00:00",
+    "full_end": "2025-09-14T23:00:00+00:00",
+    "development_start": "2023-06-04T16:00:00+00:00",
+    "development_end": "2025-04-01T07:00:00+00:00",
+    "test_start": "2025-04-01T08:00:00+00:00",
+    "test_end": "2025-09-14T23:00:00+00:00"
+}

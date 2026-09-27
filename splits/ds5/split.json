@@ -1,0 +1,18 @@
+{
+    "dataset": "ds5",
+    "source_file": "processed-data/ds5.csv",
+    "timestamp_column": "date",
+    "split_method": "chronological_80_20",
+    "split_index": 14016,
+    "total_rows": 17520,
+    "development_rows": 14016,
+    "test_rows": 3504,
+    "development_fraction": 0.8,
+    "test_fraction": 0.2,
+    "full_start": "2014-01-01T00:00:00",
+    "full_end": "2015-12-31T23:00:00",
+    "development_start": "2014-01-01T00:00:00",
+    "development_end": "2015-08-07T23:00:00",
+    "test_start": "2015-08-08T00:00:00",
+    "test_end": "2015-12-31T23:00:00"
+}

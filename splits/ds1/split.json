@@ -1,0 +1,18 @@
+{
+    "dataset": "ds1",
+    "source_file": "processed-data/ds1.csv",
+    "timestamp_column": "date",
+    "split_method": "chronological_80_20",
+    "split_index": 15788,
+    "total_rows": 19735,
+    "development_rows": 15788,
+    "test_rows": 3947,
+    "development_fraction": 0.8,
+    "test_fraction": 0.2,
+    "full_start": "2016-01-11T17:00:00",
+    "full_end": "2016-05-27T18:00:00",
+    "development_start": "2016-01-11T17:00:00",
+    "development_end": "2016-04-30T08:10:00",
+    "test_start": "2016-04-30T08:20:00",
+    "test_end": "2016-05-27T18:00:00"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "ds4",
+    "source_file": "processed-data/ds4.csv",
+    "timestamp_column": "date",
+    "split_method": "chronological_80_20",
+    "split_index": 13915,
+    "total_rows": 17394,
+    "development_rows": 13915,
+    "test_rows": 3479,
+    "development_fraction": 0.7999885017822238,
+    "test_fraction": 0.20001149821777625,
+    "full_start": "1974-05-19T00:00:00",
+    "full_end": "2021-12-31T00:00:00",
+    "development_start": "1974-05-19T00:00:00",
+    "development_end": "2012-06-22T00:00:00",
+    "test_start": "2012-06-23T00:00:00",
+    "test_end": "2021-12-31T00:00:00"
+}

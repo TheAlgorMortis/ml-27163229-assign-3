@@ -1,0 +1,18 @@
+{
+    "dataset": "ds3",
+    "source_file": "processed-data/ds3.csv",
+    "timestamp_column": "date",
+    "split_method": "chronological_80_20",
+    "split_index": 17529,
+    "total_rows": 21912,
+    "development_rows": 17529,
+    "test_rows": 4383,
+    "development_fraction": 0.7999726177437021,
+    "test_fraction": 0.20002738225629793,
+    "full_start": "2010-01-01T00:00:00",
+    "full_end": "2014-12-31T22:00:00",
+    "development_start": "2010-01-01T00:00:00",
+    "development_end": "2013-12-31T16:00:00",
+    "test_start": "2013-12-31T18:00:00",
+    "test_end": "2014-12-31T22:00:00"
+}
